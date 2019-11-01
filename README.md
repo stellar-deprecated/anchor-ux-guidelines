@@ -1,6 +1,6 @@
-# Anchor UX Guidelines & Templates #
+# Anchor UX Guidelines #
 
-## This document describes how we should provide templates and guidelines for the anchors to create amazing UXs. ##
+## This document describes guidelines for anchors in order to provide amazing UX to users. ##
 
 ### Guideline ###
 #### Loading States #### 
