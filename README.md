@@ -2,6 +2,10 @@
 
 ## This document describes guidelines for anchors in order to provide amazing UX to users. ##
 
+Good user experience (UX) is important: it creates obvious and seamless flows for users to follow which in turn reduces user error and increases trust in the product. The more high-quality your UX is, the more likely users will continue to use and have faith in your integration.
+
+Additionally, wallets are protective of their users’ experience for the same reason and will not want to offer your service unless the UX is up to their expectations. When we bring new anchors to a wallet, they do their own due diligence and evaluate your service, and submit feedback if they have any. This feedback will include UX suggestions if they see anything they’d like changed. Once the issues are resolved, they'll integrate your service and your application will officially be launched to the public.
+
 ### Guideline ###
 #### Loading States #### 
 All loading states should have a clear interface feedback, such as a loading bar or a spinner.
